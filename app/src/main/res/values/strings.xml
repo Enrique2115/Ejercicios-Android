@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UCVSesion5Trabajos</string>
+    <string name="tEjercicios">Ejercicios de la sesion 5 - Contenedores</string>
+    <string name="tFragments">Fragments y RecyclerView</string>
+    <string name="tRecyclerview">RecyclerView</string>
+    <string name="tGridview">GridView</string>
+    <string name="tListview">ListView</string>
+    <string name="tSpinner">Spinner</string>
+    <string name="tCargo">Cargo</string>
+    <string name="tEstado_civil">Estado civil</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_nombres">Nombres</string>
+    <string name="t_formulario">Formulario de Registro</string>
+    <string name="t_registrar">Registrar</string>
+    <string name="agregar">Agregar</string>
+    <string name="text_nombre_pelicula">Nombre Pelicula</string>
+    <string name="text_elementos_del_listview">Elementos del ListView</string>
+    <string name="titulo_fragments_recyclerview">Implmentacion de Fragments y RecyclerView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titulo_peliculas">Cartelera de peliculas</string>
+    <string name="text_rating">Rating</string>
+    <string name="text_detalles">Detalles</string>
+    <string name="text_titulo">Titulo</string>
+</resources>
